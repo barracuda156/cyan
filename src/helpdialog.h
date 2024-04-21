@@ -36,6 +36,7 @@
 #include <QDialog>
 #include <QTextBrowser>
 #include <QString>
+#include "compat.h"
 
 class HelpDialog : public QDialog
 {

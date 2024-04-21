@@ -40,6 +40,7 @@
 #include <QLabel>
 #include <QTreeWidgetItem>
 #include "FXX.h"
+#include "compat.h"
 
 class OpenLayerDialog : public QDialog
 {

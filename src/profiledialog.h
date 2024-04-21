@@ -38,6 +38,7 @@
 #include <QPushButton>
 #include <QString>
 #include "FXX.h"
+#include "compat.h"
 
 class ProfileDialog : public QDialog
 {

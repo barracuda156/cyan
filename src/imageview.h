@@ -40,6 +40,7 @@
 #include <QDragMoveEvent>
 #include <QDragLeaveEvent>
 #include <QResizeEvent>
+#include "compat.h"
 
 class ImageView : public QGraphicsView
 {
