@@ -51,8 +51,8 @@
 #include <QStyleFactory>
 #include <QHeaderView>
 #include <QMimeData>
-#include <QMimeDatabase>
-#include <QMimeType>
+#include <QtMimeTypes/QMimeDatabase>
+#include <QtMimeTypes/QMimeType>
 #include <QTreeWidgetItem>
 #include <qtconcurrentrun.h>
 

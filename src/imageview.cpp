@@ -32,8 +32,8 @@
 
 #include "imageview.h"
 #include <QMimeData>
-#include <QMimeDatabase>
-#include <QMimeType>
+#include <QtMimeTypes/QMimeDatabase>
+#include <QtMimeTypes/QMimeType>
 #include <QSettings>
 
 ImageView::ImageView(QWidget* parent) : QGraphicsView(parent)
